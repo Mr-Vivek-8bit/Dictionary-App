@@ -1,4 +1,3 @@
-# Dictionary-App
 Dictionary-App
 JavaFXDictionaryApp Dictionary app built using JavaFX and Scenebuilder
 
